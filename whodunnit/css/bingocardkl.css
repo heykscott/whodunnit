@@ -2,7 +2,7 @@ H1.cardbody{
 	font-variant: small-caps;
 	font-family: "Courier New", "Times New Roman", serif;
 	font-size: 100%;
-  padding: 5px;
+  padding: 1%;
   margin: 0 auto;
 /*  color: darkgrey;*/
 }
@@ -35,7 +35,7 @@ nav a{
     font-weight: bold;
     font-variant-caps: all-small-caps;
     letter-spacing: normal;
-    text-transform: normal;
+   /* text-transform: normal;*/
     line-height: 1.3em;
     background: #dd0000;
     color:#f7f4ed; 
@@ -67,14 +67,14 @@ a{
     color: #111111;
     background: #dd0000;
     color:#f7f4ed; 
-    padding:  15px;    
+    padding:  2%;    
     border-radius:30px; 
     box-shadow: 5px 5px 5px #cacaca;
 }
 
 
 body.cardbody{
-  margin: 10px auto;
+  margin: 1% auto;
 }
 
 
@@ -89,7 +89,7 @@ body.cardbody{
   color: #605f5f ;
   font-size: 190%;
   box-shadow: 5px 0px 10px #cacaca;
-  padding: 10px;
+  padding: 1%;
   margin: 0 auto;*/
 }
 
@@ -164,7 +164,7 @@ p.cardbody{
   font-size: 150%;
   text-transform: capitalize;
   color:#bab9b9;
-  margin: -1px auto;
+  margin: 0 auto;
 
 }
 
