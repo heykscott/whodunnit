@@ -39,10 +39,10 @@ nav a{
     line-height: 1.3em;
     background: #dd0000;
     color:#f7f4ed; 
-    padding:  12px;    
+    padding:  1%;    
     border-radius:30px; 
     box-shadow: 5px 5px 5px #cacaca;
-    margin:18px;
+    margin:2%;
     border: solid 3px transparent;
 }
 
@@ -110,12 +110,12 @@ table.card{
 }
 
 td{
-	width: 100px;
+	width: 15%;
    border: solid 1px #cacaca;
   }
 
 tr{
-	height: 100px;
+	height: 15%;
   border: solid 1px #cacaca;
   }
 
